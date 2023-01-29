@@ -60,11 +60,12 @@ vgp.html :
 <hr size="3" color="red">
 <p align="justify">
 <font face="Arial" size="5">
-<b>Shree VGP Mahal AC in Manavalanagar, Tiruvallur Indian Weddings are known for their glamour, decor and style.
-Being a diverse country, every community in India follows a different wedding ritual based on which they make specific bookings.
-Kalyana Mandapamsis essential for a lot of weddings, especially down South. The wedding halls are known for their unique and 
-intriguing designs. However, you need to book them in advance to get the desired slot. Among all the Kalyana Mandapams in
-Manavalanagar, Tiruvallur, Shree VGP Mahal AC is one of the best
+<b>Shree VGP Mahal AC in Manavalanagar, Tiruvallur Indian Weddings are known for their glamour, 
+ decor and style. Being a diverse country, every community in India follows a different wedding
+ ritual based on which they make specific bookings. Kalyana Mandapamsis essential for a lot of 
+ weddings, especially down South. The wedding halls are known for their unique and  intriguing
+ designs. However, you need to book them in advance to get the desired slot. Among all the 
+ Kalyana Mandapams inManavalanagar, Tiruvallur, Shree VGP Mahal AC is one of the best
 </b>
 </font>
 </p>
@@ -115,9 +116,9 @@ motors.html :
 <hr size="3" color="red">
 <p align="justify">
 <font face="Georgia" size="5">
-<b>Sampathraj Motor is located in Manavalan Nagar, Tiruvallur, Tamil Nadu which provides you the best service.
- Get complete address and phone numbers for quick access and response. Give your valuable rating to Sampathraj 
- Motor Tiruvallur and make us serve you better.</b>
+<b>Sampathraj Motor is located in Manavalan Nagar, Tiruvallur, Tamil Nadu which provides 
+you the best service. Get complete address and phone numbers for quick access and response.
+Give your valuable rating to Sampathraj Motor Tiruvallur and make us serve you better.</b>
 </font>
 </p>
 </body>
@@ -141,8 +142,8 @@ comp.html :
 <p align="justify">
 <font face="Georgia" size="5">
 <b>Established in the year 2010, Sri Sai Computers in Manavalanagar listed
-under Laptop Dealers-Dell in Tiruvallur. Manavalanagar best laptop service shop. It is so nearby
-for me. Best discounts are going on services. 
+under Laptop Dealers-Dell in Tiruvallur. Manavalanagar best laptop service shop. 
+It is so nearby for me. Best discounts are going on services. 
 Used laptop and Pc are available.</b>
 </font>
 </P>
@@ -166,12 +167,13 @@ alice.html :
 <hr size="5" color="red">
 <p align="justify">
 <font face="Bold" size="6">
-<p align='center'>Alice Super Market is Tiruvallur’s leading chain of retail stores providing consumers a shopping experience
-that hinges around freshness of produce, superior quality and better value. It is the only supermarket chain that lays special emphasis 
-on its own products, sold under the brand name of Alice. With in-house capabilities centering on Bakery , Sweets and Dairy products.
-With the mission of constantly improving and upgrading capacities to satisfy consumers through a wide range of food products and service 
-offered at the right quality, quantity and price supported by innovative solutions, Alice is all set to embrace emerging technologies
-and be recognized for its integrity, customer focus and commitment to quality..</p>
+<p align='center'>Alice Super Market is Tiruvallur’s leading chain of retail stores providing consumers a 
+shopping experience that hinges around freshness of produce, superior quality and better value. It is the 
+only supermarket chain that lays special emphasis on its own products, sold under the brand name of Alice.
+With in-house capabilities centering on Bakery , Sweets and Dairy products. With the mission of constantly
+improving and upgrading capacities to satisfy consumers through a wide range of food products and service offered
+at the right quality, quantity and price supported by innovative solutions, Alice is all set to embrace emerging 
+technologies and be recognized for its integrity, customer focus and commitment to quality..</p>
 </font>
 </p>
 </body>
